@@ -192,6 +192,16 @@ exclude:
   - README
   - tmp
   - vendor
+  # Template demo content and tooling that is not part of this personal site
+  - _posts
+  - _talks
+  - _teaching
+  - _portfolio
+  - _drafts
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
 keep_files:
   - .git
   - .svn
