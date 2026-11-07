@@ -35,28 +35,28 @@ My research focuses on natural language processing and machine learning.
 
 The same list is available on the [Publications]({{ site.baseurl }}/publications/) page, and on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
-1. **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ site.baseurl }}/publication/2025-synlogic)** 
-   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He 
+1. **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ site.baseurl }}/publication/2025-synlogic)**  
+   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *arXiv*, 2025. **First author.** A GitHub code repository is available.
 
-2. **[On the Perception Bottleneck of VLMs for Chart Understanding]({{ site.baseurl }}/publication/2025-perception-bottleneck-chart)** 
-   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He 
+2. **[On the Perception Bottleneck of VLMs for Chart Understanding]({{ site.baseurl }}/publication/2025-perception-bottleneck-chart)**  
+   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *arXiv*, 2025. **First author.** GitHub code repository: Vision4Chart.
 
-3. **[On the Universal Truthfulness Hyperplane Inside LLMs]({{ site.baseurl }}/publication/2024-universal-truthfulness-hyperplane)** 
-   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He 
+3. **[On the Universal Truthfulness Hyperplane Inside LLMs]({{ site.baseurl }}/publication/2024-universal-truthfulness-hyperplane)**  
+   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
    *EMNLP 2024*. **First author.** GitHub code repository: Universal_Truthfulness_Hyperplane.
 
-4. **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ site.baseurl }}/publication/2024-in-context-sharpness)** 
-   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He 
+4. **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ site.baseurl }}/publication/2024-in-context-sharpness)**  
+   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
    *ICML 2024*. Co-author.
 
-5. **[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ site.baseurl }}/publication/2023-c-eval)** 
-   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He 
+5. **[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ site.baseurl }}/publication/2023-c-eval)**  
+   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
    *NeurIPS 2023*. Co-author.
 
-6. **[Composing Parameter-Efficient Modules with Arithmetic Operations]({{ site.baseurl }}/publication/2023-composing-parameter-efficient-modules)** 
-   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He 
+6. **[Composing Parameter-Efficient Modules with Arithmetic Operations]({{ site.baseurl }}/publication/2023-composing-parameter-efficient-modules)**  
+   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He  
    *NeurIPS 2023*. Co-author.
 
 ## Honors and Awards
